@@ -1,13 +1,14 @@
-# 👋 Hello, I'm Arshavir!
+# 👋 Hello, I'm Arshavir
 
-I'm a passionate **software developer** working with:
+I'm a **passionate software developer** exploring the world of **web development** and open source!  
 
-- **Frontend:** React.js, Next.js, HTML, CSS, JavaScript  
-- **Backend:** Python, Django  
-- **Database:** PostgreSQL  
-- **Design:** Photoshop  
+- 🔹 **Frontend:** React.js, Next.js, HTML, CSS, JavaScript  
+- 🔹 **Backend:** Python, Django  
+- 🔹 **Database:** PostgreSQL  
+- 🔹 **Design & UI:** Photoshop  
 
-![Hello Animation](https://media.giphy.com/media/loosekeys-animation-animated-26u4cqVR8dsmedTJ6/giphy.gif)
+I love **building clean and modern web applications**, sharing my projects, and learning new technologies along the way.  
 
-I love building modern, user-friendly web applications and constantly improving my skills.  
-Check out my projects below! 🚀
+![Coding GIF](https://media.giphy.com/media/l0HlQ7LRal9r1tDqY/giphy.gif)
+
+Feel free to **explore my repositories** and connect with me! 🚀
