@@ -10,6 +10,6 @@ Welcome to my GitHub profile! I'm a **passionate software developer** exploring 
 
 I love **building clean and modern web applications**, sharing my projects, and learning new technologies every day.  
 
-![Hello GIF](https://media.giphy.com/media/l0HlQ7LRal9r1tDqY/giphy.gif)
+![Description](https://github.com/<username>/<repository>/blob/main/your-image.gif?raw=true)
 
 Feel free to **explore my repositories**, check out my projects, and connect with me! 🚀
