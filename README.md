@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello, I'm Arshavir!
 
-<!--
-**ArshavirGWD/ArshavirGWD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **software developer** working with:
 
-Here are some ideas to get you started:
+- **Frontend:** React.js, Next.js, HTML, CSS, JavaScript  
+- **Backend:** Python, Django  
+- **Database:** PostgreSQL  
+- **Design:** Photoshop  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Hello Animation](https://media.giphy.com/media/l0HlQ7LRal9r1tDqY/giphy.gif)
+
+I love building modern, user-friendly web applications and constantly improving my skills.  
+Check out my projects below! 🚀
