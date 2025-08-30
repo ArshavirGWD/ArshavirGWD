@@ -12,5 +12,7 @@ Welcome to my GitHub profile! I'm a **passionate software developer** exploring 
 I love **building clean and modern web applications**, sharing my projects, and learning new technologies every day.  
 
 ![Welcome to my profile](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
+![Welcome to my profile](https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif)
+![Welcome to my profile](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
 
 Feel free to **explore my repositories**, check out my projects, and connect with me! 🚀
